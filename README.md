@@ -85,15 +85,11 @@ python app.py
 python app.py --video path/to/video.mp4
 ```
 
-Controles en la app (si implementados en el starter code):
-- `m` : alternar mapeo espejo (mirror mapping) — útil si las imágenes del robot están en espejo.
-- `v` : alternar debug en consola (líneas por frame).
-- `o` : alternar overlay debug en la imagen.
-- `ESC` : salir.
-
----
-
 ## Requerimientos mínimos funcionales (lo que se debe implementar en 40 minutos)
+
+![](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F34clr3wvqxhjk35nl45p.png)
+
+
 1. Captura de vídeo desde cámara o carga de archivo.
 2. Uso de MediaPipe (Pose/Holistic) para obtener `results.pose_landmarks`.
 3. Conversión de landmarks a píxeles: `px = int(landmark.x * width)`, `py = int(landmark.y * height)`.
@@ -112,6 +108,7 @@ Controles en la app (si implementados en el starter code):
    - Suavizado exponencial o median filter para ángulos/ratios.
    - Histeresis por conteo de frames (ej.: CONFIRM_FRAMES = 3-5).
 
+![](https://www.researchgate.net/profile/Hassam-Wazir/publication/362452098/figure/fig2/AS:11431281192104445@1695722252794/Joint-positions-obtained-from-the-MediaPipe-and-the-vectors-used-to-compute-the-joint.jpg)
 ---
 
 ## Indicaciones técnicas rápidas
