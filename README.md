@@ -109,6 +109,7 @@ python app.py --video path/to/video.mp4
    - Histeresis por conteo de frames (ej.: CONFIRM_FRAMES = 3-5).
 
 ![](https://www.researchgate.net/profile/Hassam-Wazir/publication/362452098/figure/fig2/AS:11431281192104445@1695722252794/Joint-positions-obtained-from-the-MediaPipe-and-the-vectors-used-to-compute-the-joint.jpg)
+
 ---
 
 ## Indicaciones técnicas rápidas
