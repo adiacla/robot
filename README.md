@@ -6,7 +6,9 @@ Duración propuesta: **40 minutos**
 
 ## Descripción breve
 
-![]()
+![](https://raw.githubusercontent.com/adiacla/robot/refs/heads/main/salida.png)
+
+
 Los estudiantes desarrollarán una aplicación en Python llamada `app.py` (o `robot.py`) que utiliza MediaPipe para detectar los landmarks de la pose humana, calcula ángulos y relaciones relevantes de los brazos y muestra simultáneamente:
 
 - Ventana izquierda: tu cámara / video con landmarks y overlays de debug.
