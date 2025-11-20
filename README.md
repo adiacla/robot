@@ -178,7 +178,6 @@ Criterio mínimo para aprobar la tarea: app ejecutable con las dos vistas y `bot
 - [ ] `robot/` con imágenes con nombres correctos
 - [ ] `requirements.txt`
 - [ ] `README.md` (este archivo)
-- [ ] `answers.txt` con las 5 respuestas
 
 ---
 
