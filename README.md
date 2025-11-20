@@ -89,7 +89,7 @@ python app.py --video path/to/video.mp4
 
 ![](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F34clr3wvqxhjk35nl45p.png)
 
-![](https://www.researchgate.net/profile/Hassam-Wazir/publication/362452098/figure/fig2/AS:11431281192104445@1695722252794/Joint-positions-obtained-from-the-MediaPipe-and-the-vectors-used-to-compute-the-joint.jpg)
+![](https://raw.githubusercontent.com/adiacla/robot/refs/heads/main/calculos.png)
 
 1. Captura de vídeo desde cámara o carga de archivo.
 2. Uso de MediaPipe (Pose/Holistic) para obtener `results.pose_landmarks`.
