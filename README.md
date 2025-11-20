@@ -205,11 +205,3 @@ Criterio mínimo para aprobar la tarea: app ejecutable con las dos vistas y `bot
 - OpenCV Python tutorials: https://opencv.org
 - Pygame docs: https://www.pygame.org/docs/
 
----
-
-Si quieres, preparo también un "starter kit" (`app_base.zip`) con:
-- `app_base.py` (esqueleto con cámara + MediaPipe + funciones básicas),
-- `requirements.txt`,
-- carpeta `robot/` con imágenes de ejemplo.
-
-¿Deseas que te entregue ese starter kit listo para distribuir a los estudiantes?  
